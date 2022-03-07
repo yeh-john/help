@@ -8,15 +8,15 @@ python3 -m pip install -r requirments.txt
 
 You can write pip module in txt file
 
+
+
 ###  requirments.txt ####
-pytube
-beautifulsoup4
-moviepy
-
-
-
-
-
+pytube                  #
+beautifulsoup4          #
+moviepy                 #
+                        #
+                        #
+                        #
 #########################
 
 
