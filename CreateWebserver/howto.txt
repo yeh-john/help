@@ -10,5 +10,8 @@ service apache2 start
 # Check localhost
 http://localhost
 
+# Connect your account
+ngrok authtoken your_authtoken_number
+
 # Start public webserver
 ngrok http 80
