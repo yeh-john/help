@@ -1,0 +1,14 @@
+# Firts you need to install ngrok
+go to ngrok website tp install ngrok file
+
+# Check ngrok scusses installed using terminal
+ngrok
+
+# Start apache2
+service apache2 start
+
+# Check localhost
+http://localhost
+
+# Start public webserver
+ngrok http 80
